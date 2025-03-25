@@ -418,6 +418,72 @@ section p {
   width: 5%;
 }
 
+.services{
+    margin-top: 100px;
+}
+
+.arrange h1{
+font-family: "Volkhov", sans-serif;
+  font-size: 50px;
+  line-height: 110%;
+  padding: 16px;
+}
+
+.arrange p{
+    margin-top:-25px;
+    margin-left: 25px;
+}
+
+.arr{
+    margin-left: 25px;
+}
+
+.files{
+    transform: translateY(-150%);
+    margin-left: 85%;
+}
+
+.rgt.icon img{
+    transform: translateY(-540%);
+    margin-left: 495px;
+    position: absolute;
+    object-fit: cover;
+    
+}
+
+.company{
+    position: relative;
+    font-weight: 500;
+    height: 40vh;
+    width: 42%;
+    padding: 16px;
+    transform: translateY(-185%);
+    margin-left: 55%;
+}
+
+.company p{
+    margin-top: 170px;
+    font-weight: 200;
+}
+
+.position{
+    font-weight: 500;
+    position: relative;
+    height: 40vh;
+    width: 42%;
+    padding: 16px;
+    background-color: #ffffff;
+    transform: translateY(-120%);
+    margin-left: 48%;
+    box-shadow: 70px 70px 20px rgba(0, 0, 0, 0.1);
+} 
+
+.position .name{
+    margin-top: -50px;
+}
+
+
+
 .about{
   display: flex;
   justify-content: space-between;
@@ -476,6 +542,7 @@ section p {
   margin: -20px -10px;
   transform: translateY(16%);
 }
+
 
 .mail form {
   margin-left: 330px;
