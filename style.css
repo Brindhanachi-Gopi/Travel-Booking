@@ -265,6 +265,10 @@ section p {
   text-align: center;
 }
 
+.dis-part{
+  margin-top: 100px;
+}
+
 .discount {
   display: flex;
   justify-content: space-between;
@@ -359,6 +363,10 @@ section p {
   text-align: center;
 }
 
+.vacation{
+  margin-top: 100px;
+}
+
 .deal.best h1 {
   margin-top: 15px;
   margin-right: 150px;
@@ -419,7 +427,7 @@ section p {
 }
 
 .services{
-    margin-top: 100px;
+    margin-top: 180px;
 }
 
 .arrange h1{
@@ -444,12 +452,9 @@ font-family: "Volkhov", sans-serif;
 }
 
 .rgt.icon img{
-    transform: translateY(-540%);
-    margin-left: 495px;
-    position: absolute;
-    object-fit: cover;
-    
-}
+     transform: translateY(-75%);
+     margin-left: -50px;
+    }
 
 .company{
     position: relative;
@@ -482,7 +487,16 @@ font-family: "Volkhov", sans-serif;
     margin-top: -50px;
 }
 
+.position p{
+  margin-top: -63px;
+}
 
+.update{
+  margin-top: -300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 
 .about{
   display: flex;
@@ -512,9 +526,11 @@ font-family: "Volkhov", sans-serif;
 
 .slide{
   text-align: center;
+  margin-top: 50px;
 }
 
 .mail {
+  margin-top: 100px;
   padding: 8px;
   border-radius: 16px;
   background-color: var(--orange-color);
