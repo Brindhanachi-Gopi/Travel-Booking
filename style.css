@@ -230,23 +230,25 @@ section p {
   margin-top: -150px;
 }
 
-.info {
+.need {
   display: flex;
   justify-content: space-between;
-  margin-top: 40px;
-}
-
-.content {
-  border-radius: 16px;
-  padding: 32px;
-  width: 30%;
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.06);
-  transition: transform 0.5s;
+  position: relative;
+  margin-top: 50px;
 }
 
 .content:hover {
   transform: translateY(-10%);
 
+}
+
+.need .content {
+  background-color: var(--white-color);
+  border-radius: 16px;
+  padding: 32px;
+  width: 30%;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.06);
+  transition: transform 0.5s;
 }
 
 .deal h1 {
