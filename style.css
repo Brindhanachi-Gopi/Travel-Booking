@@ -230,6 +230,8 @@ section p {
   margin-top: -150px;
 }
 
+
+
 .need {
   display: flex;
   justify-content: space-between;
@@ -266,6 +268,8 @@ section p {
   transform: translateX(75%);
   text-align: center;
 }
+
+/* Dicount Styling */
 
 .dis-part{
   margin-top: 100px;
@@ -365,6 +369,8 @@ section p {
   text-align: center;
 }
 
+/* Vacation Styling */
+
 .vacation{
   margin-top: 100px;
 }
@@ -427,6 +433,8 @@ section p {
   margin-left: 260px;
   width: 5%;
 }
+
+/* Client Styling */
 
 .services{
     margin-top: 180px;
@@ -492,6 +500,8 @@ font-family: "Volkhov", sans-serif;
 .position p{
   margin-top: -63px;
 }
+
+/* Update Styling */
 
 .update{
   margin-top: -300px;
@@ -560,6 +570,8 @@ font-family: "Volkhov", sans-serif;
   margin: -20px -10px;
   transform: translateY(16%);
 }
+
+/* Footer Styling */
 
 
 .mail form {
